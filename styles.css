@@ -51,6 +51,7 @@ body {
   background-color: hsl(150, 100%, 66%);
   position: absolute;
   bottom: -30px;
+  cursor: pointer;
 }
 
 @media (max-width: 768px) {
